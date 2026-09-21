@@ -201,7 +201,7 @@ I performed the Oracle practical steps and captured the screenshots from my own 
 
 ## Submission Details
 
-Repository Link: [Add your GitHub repository link here]
+Repository Link: https://github.com/igiranezajeanpaul/oracle_pdb_ass_II_20251sen292_igiraneza.git
 
 PDB Name Created: IG_PDB_20251SEN292
 
