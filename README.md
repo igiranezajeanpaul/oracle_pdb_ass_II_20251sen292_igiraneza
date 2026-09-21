@@ -74,6 +74,8 @@ The username is:
 
 `IGIRANEZA_PLSQLAUCA_20251SEN292`
 
+This completed Task 1.
+
 
 ## Task 2: Create and Delete a Temporary PDB
 
